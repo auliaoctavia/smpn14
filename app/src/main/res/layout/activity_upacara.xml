@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Upacara"
+    android:orientation="vertical"
+    android:background="#424642">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="200dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/upacaraa"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/upacarab"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/upacarac"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/upacarac"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="200dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/upacarae"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/upacaraf"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/upacarag"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="200dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/apela"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/apelb"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/apelc"/>
+
+            <ImageView
+                android:layout_width="280dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/apeld"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+
+
+</LinearLayout>

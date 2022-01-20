@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sembilan"
+    android:orientation="vertical"
+    android:background="#424642">
+
+
+    <HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_marginTop="30dp"
+    android:layout_height="170dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="170dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="PAI"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/paiix"/>
+
+            <Button
+                android:id="@+id/paixi"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:text="@string/paixi"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="Bahasa Indonesia"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/bindoix"/>
+
+            <Button
+                android:id="@+id/bindoxi"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center"
+                android:text="@string/bindoxi" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="IPA"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/ipaix"/>
+
+            <Button
+                android:id="@+id/ipasatuxi"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center"
+                android:text="@string/ipasatuxi" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="Prakarya"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/prakaryaix"/>
+
+            <Button
+                android:id="@+id/prakaryaxi"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center"
+                android:text="@string/prakaryaxi" />
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="170dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="170dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Seni Budaya"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/senbudix"/>
+
+                <Button
+                    android:id="@+id/senbudxi"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/senbudxi" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Penjasorkes"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/pjokix"/>
+
+                <Button
+                    android:id="@+id/penjasxi"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/penjasxi"/>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="PKN"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/pknix"/>
+
+                <Button
+                    android:id="@+id/pknxi"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/pknxi"/>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Bahasa Inggris"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/bingix"/>
+
+                <Button
+                    android:id="@+id/binggrisxi"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/binggrisxi" />
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="170dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="170dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="MTK"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/mtkix"/>
+
+                <Button
+                    android:id="@+id/mtkxi"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/mtkxi" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="IPS"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/ipsix"/>
+
+                <Button
+                    android:id="@+id/ipsxi"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/ipsxi" />
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+</LinearLayout>

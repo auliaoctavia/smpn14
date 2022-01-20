@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">SMPN 14 SEMARANG</string>
+
+    <string name="paivii"> <a href="https://drive.google.com/file/d/1ZpDIRFccp5AVyYNJ3YZLQOraK1oRbz8T/view?usp=sharing">open</a></string>
+
+    <string name="bindovii"> <a href="https://drive.google.com/file/d/1QlR7jphGbbU-MyV8sSmp0I2HR0w3HsbT/view?usp=sharing">open</a></string>
+
+    <string name="ipasatuvii"> <a href="https://drive.google.com/file/d/1pndemQmzKxohiEXRzlItQb1c0DshE52o/view?usp=sharing">open</a></string>
+
+    <string name="ipaduavii"> <a href="https://drive.google.com/file/d/1DcdUSjGZZ0StKncoBJ7KDW5LQxeEcvyt/view?usp=sharing">open</a></string>
+
+    <string name="prakaryavii"> <a href="https://drive.google.com/file/d/15eTLSC__bbpNEu9kLTJyCM-HJ69rP8oo/view?usp=sharing">open</a></string>
+
+    <string name="senbudvii"> <a href="https://drive.google.com/file/d/1MRnUgJKGYevRmyid6wX8JGP_9ksqv31H/view?usp=sharing">open</a></string>
+
+    <string name="penjasvii"> <a href="https://drive.google.com/file/d/1Lwr-nYkXuvtv1oxlJYYQ3PycZmsoKxm5/view?usp=sharing">open</a></string>
+
+    <string name="pknvii"> <a href="https://drive.google.com/file/d/1Ho6DMPY50SXrzbZ7ncCLeGRV7RWwqS4D/view?usp=sharing">open</a></string>
+
+    <string name="binggrisvii"> <a href="https://drive.google.com/file/d/1n6PzogT_4FveVrPA09Mdczw_IVoMlZDz/view?usp=sharing">open</a></string>
+
+    <string name="mtkvii"> <a href="https://drive.google.com/file/d/1PwSNMUl_01G3WLfGwe9gL-we9x0prCV8/view?usp=sharing">open</a></string>
+
+    <string name="ipsvii"> <a href="https://drive.google.com/file/d/1aWUTAruq2Or0NzOu7uBsASM1ihWFnImF/view?usp=sharing">open</a></string>
+
+
+    <string name="paiviii"> <a href="https://drive.google.com/file/d/1w-DIHA-hZHhqgZIW6seFshbOkiC5tN_r/view?usp=drivesdk">open</a></string>
+
+    <string name="bindoviii"> <a href="https://drive.google.com/file/d/1Y677Ro2cRvz6yKmAYQvsiSBkFMO3Nk3R/view?usp=drivesdk">open</a></string>
+
+    <string name="ipasatuviii"> <a href="https://drive.google.com/file/d/1a0seF7miPMoNHnxse_xZYbcs9q07QkMQ/view?usp=drivesdk">open</a></string>
+
+    <string name="prakaryaviii"> <a href="https://drive.google.com/file/d/1Vbn97bfoybDUBABQbhnMA7ewdIIJzAXP/view?usp=drivesdk">open</a></string>
+
+    <string name="senbudviii"> <a href="https://drive.google.com/file/d/1l_G9gGCiZ2lP1Ta6Xz5C1tkHHVlhAHN3/view?usp=drivesdk">open</a></string>
+
+    <string name="penjasviii"> <a href="https://drive.google.com/file/d/19oatiO39v0J7hB07F5JsvMsSO6yr_FMn/view?usp=drivesdk">open</a></string>
+
+    <string name="pknviii"> <a href="https://drive.google.com/file/d/1eYtX4MkhyNMvvVTVQ6EgCd855gASzZTt/view?usp=drivesdk">open</a></string>
+
+    <string name="binggrisviii"> <a href="https://drive.google.com/file/d/1GBDPPgZB1LDhsonWOlM3uOsSgouMbRs5/view?usp=drivesdk">open</a></string>
+
+    <string name="mtkviii"> <a href="https://drive.google.com/file/d/18_ojNQoD0BeQjGVR0eU_-vunHB_LZDkZ/view?usp=drivesdk">open</a></string>
+
+    <string name="ipsviii"> <a href="https://drive.google.com/file/d/1waH6UK2N3jPEMXFcRoDZqPAE9tBmX4Bt/view?usp=drivesdk">open</a></string>
+
+
+    <string name="paixi"> <a href="https://drive.google.com/file/d/1mNX8o_R-_pg9Rh7ouFjlmoqH90_EKeV0/view?usp=drivesdk">open</a></string>
+
+    <string name="bindoxi"> <a href="https://drive.google.com/file/d/1G0HClOQtCAFPB8V_nH55slw35HRdUQdZ/view?usp=drivesdk">open</a></string>
+
+    <string name="ipasatuxi"> <a href="https://drive.google.com/file/d/13sg4dnQgnO3l_DOoZzC6GCwoDzMkCSQJ/view?usp=drivesdk">open</a></string>
+
+    <string name="prakaryaxi"> <a href="https://drive.google.com/file/d/1hYuMv2rqsBmWCSe6rtk23TT7AgubNUgA/view?usp=drivesdk">open</a></string>
+
+    <string name="senbudxi"> <a href="https://drive.google.com/file/d/1yjb-jByIlEwiWM0cD2reCrRGr-GSRbZ5/view?usp=drivesdk">open</a></string>
+
+    <string name="penjasxi"> <a href="https://drive.google.com/file/d/1BMVJFiywovM5yRRtRuPVw-rFGm7_nO8d/view?usp=drivesdk">open</a></string>
+
+    <string name="pknxi"> <a href="https://drive.google.com/file/d/1YWl3-sc_j8Vdak7OXh2u75OXl8-cWupp/view?usp=drivesdk">open</a></string>
+
+    <string name="binggrisxi"> <a href="https://drive.google.com/file/d/1JDIhLMmlB5DQcOkOgRhQZsJkJiChUTDm/view?usp=drivesdk">open</a></string>
+
+    <string name="mtkxi"> <a href="https://drive.google.com/file/d/1AvPWCT0ZPTaZHBbEA3OiSPBrlUiItXRr/view?usp=drivesdk">open</a></string>
+
+    <string name="ipsxi"> <a href="https://drive.google.com/file/d/1mYHOpprKSgJEiGCi5K4D_6iF7tbeunFv/view?usp=drivesdk">open</a></string>
+</resources>

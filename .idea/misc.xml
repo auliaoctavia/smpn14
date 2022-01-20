@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_basket.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_delapan.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_ekstrakulikuler.xml" value="0.18" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_fasilitas.xml" value="0.1786898839137645" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_galery.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_guru.xml" value="0.33" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_gurudanstaff.xml" value="0.21" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_gurunstaff.xml" value="0.1349458943348186" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_gurustaff.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_kejuaraan.xml" value="0.22" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_mpls.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_paskibra.xml" value="0.13585434173669467" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_perpus.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_pramuka.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_rebana.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_sembilan.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_senam.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_sepakbola.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_tujuh.xml" value="0.16" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_upacara.xml" value="0.25" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/activity_vaksinasi.xml" value="0.21887966804979253" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/SMPN14SEMARANG/app/src/main/res/layout/image_item.xml" value="0.1956521739130435" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_basket.xml" value="0.22447916666666667" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_delapan.xml" value="0.33" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_dewangalang.xml" value="0.25" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_ekstrakulikuler.xml" value="0.22447916666666667" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_fasilitas.xml" value="0.33" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_galery.xml" value="0.20471014492753623" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_gurudanstaff.xml" value="0.21" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_mpls.xml" value="0.21784420289855072" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_paskibra.xml" value="0.22447916666666667" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_perpus.xml" value="0.22447916666666667" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_pramuka.xml" value="0.21784420289855072" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_profile.xml" value="0.21105072463768115" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_rebana.xml" value="0.22447916666666667" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_sembilan.xml" value="0.33" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_senam.xml" value="0.22447916666666667" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_sepakbola.xml" value="0.21784420289855072" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_tujuh.xml" value="0.33" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/layout/activity_upacara.xml" value="0.21784420289855072" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19074074074074074" />
+        <entry key="..\:/apk smp/smpnegeri14-master/smpnegeri14-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19074074074074074" />
+        <entry key="..\:/coding/smp14-master/app/src/main/res/layout/activity_galery.xml" value="0.35104166666666664" />
+        <entry key="..\:/coding/smp14-master/app/src/main/res/layout/activity_gurudanstaff.xml" value="0.35104166666666664" />
+        <entry key="..\:/coding/smp14-master/app/src/main/res/layout/activity_pramuka.xml" value="0.35104166666666664" />
+        <entry key="..\:/coding/smp14-master/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/coding/smp14-master/app/src/main/res/layout/activity_senam.xml" value="0.19479166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

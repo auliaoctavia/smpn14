@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smkn9semarang.smpn14semarang">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SMPN14SEMARANG">
+        <activity
+            android:name=".Basket"
+            android:exported="false" />
+        <activity
+            android:name=".Gurudanstaff"
+            android:exported="false" />
+        <activity
+            android:name=".Sembilan"
+            android:exported="false" />
+        <activity
+            android:name=".Delapan"
+            android:exported="false" />
+        <activity
+            android:name=".Tujuh"
+            android:exported="false" />
+        <activity
+            android:name=".Mpls"
+            android:exported="false" />
+        <activity
+            android:name=".Senam"
+            android:exported="false" />
+        <activity
+            android:name=".Vaksinasi"
+            android:exported="false" />
+        <activity
+            android:name=".Kejuaraan"
+            android:exported="false" />
+        <activity
+            android:name=".Sepakbola"
+            android:exported="false" />
+        <activity
+            android:name=".Rebana"
+            android:exported="false" />
+        <activity
+            android:name=".Paskibra"
+            android:exported="false" />
+        <activity
+            android:name=".Upacara"
+            android:exported="false" />
+        <activity
+            android:name=".Pramuka"
+            android:exported="false" />
+        <activity
+            android:name=".Perpus"
+            android:exported="false" />
+        <activity
+            android:name=".Galery"
+            android:exported="false" />
+        <activity
+            android:name=".Fasilitas"
+            android:exported="false" />
+        <activity
+            android:name=".Ekstrakulikuler"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

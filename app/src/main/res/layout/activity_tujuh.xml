@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tujuh"
+    android:orientation="vertical"
+    android:background="#424642">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="170dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="170dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="PAI"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/paivii"/>
+
+            <Button
+                android:id="@+id/paivii"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:text="@string/paivii"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bahasa Indonesia"
+                android:layout_marginTop="3dp"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/bindovii"/>
+
+            <Button
+                android:id="@+id/bindovii"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center"
+                android:text="@string/bindovii" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="IPA Semester I"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/ipasatuvii"/>
+
+            <Button
+                android:id="@+id/ipasatuvii"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center"
+                android:text="@string/ipasatuvii" />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="IPA Semester II"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/ipaduavii"/>
+
+            <Button
+                android:id="@+id/ipaduavii"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center"
+                android:text="@string/ipaduavii" />
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="170dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="170dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Prakarya"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/prakaryavii"/>
+
+                <Button
+                    android:id="@+id/prakaryavii"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/prakaryavii" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Seni Budaya"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/senbudvii"/>
+
+                <Button
+                    android:id="@+id/senbudvii"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/senbudvii" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Penjasorkes"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/pjokvii" />
+
+                <Button
+                    android:id="@+id/penjasvii"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/penjasvii"/>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="PKN"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/pknvii"/>
+
+                <Button
+                    android:id="@+id/pknvii"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/pknvii"/>
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="170dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="170dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Bahasa Inggris"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/bingvii"/>
+
+                <Button
+                    android:id="@+id/binggrisvii"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/binggrisvii" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="MTK"
+                    android:textSize="11sp"
+                    android:layout_gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/mtkvii"/>
+
+                <Button
+                    android:id="@+id/mtkvii"
+                    android:layout_width="85dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="65dp"
+                    android:gravity="center"
+                    android:text="@string/mtkvii" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="IPS"
+                android:textSize="11sp"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="110dp"
+                android:src="@drawable/ipsvii"/>
+
+            <Button
+                android:id="@+id/ipsvii"
+                android:layout_width="85dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="65dp"
+                android:gravity="center"
+                android:text="@string/ipsvii" />
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    </LinearLayout>
